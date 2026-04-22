@@ -18,10 +18,14 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayanithaa&" alt="tayanithaa" /></p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayanithaa&" alt="tayanithaa" /></p>
+![Snake animation](https://github.com/Tayanithaa/Tayanithaa/blob/output/github-contribution-grid-snake.svg)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tayanithaa&theme=react-dark)
