@@ -22,3 +22,9 @@
 <br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayanithaa&" alt="tayanithaa" /></p>
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tayanithaa&theme=react-dark)
+
+Thank you for visiting my profile!  
+Feel free to explore my projects and connect with me.
